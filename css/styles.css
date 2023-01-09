@@ -152,8 +152,11 @@ body{
 }
 
 .hero-title{
+    width: 696px;
     margin-top: 0px;
     margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
 
     color: var(--white);
 
